@@ -5,7 +5,7 @@
     <string name="jalan">Jalan</string>
     <string name="kodepos">Kode Pos</string>
     <string name="negara">Negara</string>
-    <string-array name="daftarnegara">
+    <string-array name="daftarNegara">
         <item>Indonesia</item>
         <item>Singapura</item>
         <item>Malaysia</item>
